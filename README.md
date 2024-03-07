@@ -15,6 +15,6 @@
 
 而GPT4也没有真正意义上的自相矛盾，`*a`的类型就是`int[4]`类型，但是在表达式的语境下，`*a`的类型被隐式转换成了`int*`。
 
-别看了，没了（没啥可写的了
+别看了，没了（暂时没啥可写的了
 
 参考网站：[数组声明 - cppreference.com](https://zh.cppreference.com/w/cpp/language/array#.E6.95.B0.E7.BB.84.E5.88.B0.E6.8C.87.E9.92.88.E9.80.80.E5.8C.96)
